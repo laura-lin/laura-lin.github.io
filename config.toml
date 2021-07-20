@@ -69,8 +69,6 @@ theme = "aafu"
     [[params.showInAccordion]]
         item = "experience"
     [[params.showInAccordion]]
-        item = "education"
-    [[params.showInAccordion]]
         item = "publication"
     [[params.showInAccordion]]
         item = "project"
@@ -127,7 +125,7 @@ theme = "aafu"
             authors = "Y Lin, G Jin"
             date = "2021"
             Journal = "2021 International Symposium on Connected and Autonomous Vehicles (SCoV 2021)"
-            url = "#"
+            url = "http://www.socav.org/"
             type = "Conference Articles"
 		
         [[params.publication.list]]
@@ -135,7 +133,7 @@ theme = "aafu"
             authors = "Y Lin, G Jin"
             date = "2021"
             Journal = "2021 International Conference on Vehicle Technology and Intelligent Transport Systems(VEHITS 2021)"
-            url = "#"
+            url = "http://www.vehits.org/"
             type = "Conference Articles"
 
     # Project section
