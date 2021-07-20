@@ -1,15 +1,15 @@
-baseURL = "http://example.org/"
+baseURL = "https://laura-lin.github.io/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Yulu (Laura) Lin"
 theme = "aafu"
 
 
 
 [params]
-    title = "Yulu(Laura) Lin"
+    title = "Yulu (Laura) Lin"
     author = "Laura"
     description = "personal website"
-    copyright = "short copyright message"
+    copyright = ""
     disableBlog = true
 
     [params.theme]
@@ -33,7 +33,7 @@ theme = "aafu"
     # Profile section
     [params.profile]
         name = "Yulu (Laura) Lin"
-        tagline = "Title"
+        tagline = "UX Researcher"
         location = "Sunnyvale, CA"
         photo = "p1.JPG"
 
